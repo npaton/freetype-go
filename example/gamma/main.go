@@ -14,7 +14,7 @@ import (
 	"log"
 	"os"
 
-	"code.google.com/p/freetype-go/freetype/raster"
+	"github.com/scpayson/freetype-go/freetype/raster"
 )
 
 func p(x, y int) raster.Point {
